@@ -1,2 +1,0 @@
-name ='pogpong'
-lastname = 'intajag'
